@@ -12,6 +12,10 @@
   --color-background: var(--color-base-background-2);
   --gradient-background: var(--gradient-base-background-2);
 }
+.color-hidden-background {
+  --color-background: #000000;
+  --opacity: 0;
+}
 
 .color-inverse {
   --color-foreground: var(--color-base-background-1);
