@@ -2127,7 +2127,7 @@ input[type='checkbox'] {
 }
 
 .modal__close-button .icon {
-  width: 1.rem;
+  width: 0.1rem;
 }
 
 .modal__content {
