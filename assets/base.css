@@ -2109,6 +2109,9 @@ input[type='checkbox'] {
   width: 1.7rem;
 }
 
+.modal__toggle_open {
+  display: flex;
+}
 
 .no-js details[open] .modal__toggle-open {
   display: none;
