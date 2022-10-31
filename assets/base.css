@@ -2106,10 +2106,7 @@ input[type='checkbox'] {
   display: flex;
   z-index: 1;
   height: 5px;
-  width: 10px;
 }
-
-
 
 .no-js details[open] .modal__toggle-open {
   display: none;
