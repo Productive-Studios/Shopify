@@ -2105,7 +2105,7 @@ input[type='checkbox'] {
 .no-js details[open] svg.modal__toggle-close {
   display: flex;
   z-index: 1;
-  height: 1.7rem;
+  height: 3.7rem;
   width: 1.7rem;
 }
 
